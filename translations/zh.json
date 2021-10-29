@@ -23,6 +23,7 @@
   "remove_community": "移除价值观",
   "subscribed_to_communities": "关注新<1>价值观</1>",
   "trending_communities": "热门<1>价值观</1>",
+  "trending": "热门",
   "list_of_communities": "价值观列表",
   "number_of_communities": "{{count}} 价值观",
   "number_of_communities_plural": "{{count}} 个价值观",
